@@ -21,6 +21,6 @@ No nosso arquivo index iremos criar uma nova sessão e chamar nossa função sta
 
 
 <div align="center">
-<img src="https://github.com/alexvicentedasilva/whatsapp-bot/issues/1#issue-1610382927.gif" width="700px" />
+<img src="https://github.com/alexvicentedasilva/whatsapp-bot/issues/1#issue-1610382927.png" width="700px" />
 </div>
 
