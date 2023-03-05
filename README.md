@@ -24,3 +24,7 @@ No nosso arquivo index iremos criar uma nova sessão e chamar nossa função sta
 <img src="https://github.com/alexvicentedasilva/whatsapp-bot/issues/1#issue-1610382927.png" width="700px" />
 </div>
 
+<div align="center">
+<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+</div>
+
