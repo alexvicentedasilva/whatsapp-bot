@@ -19,5 +19,8 @@ Crie um arquivo index.js na raiz do projeto
 
 No nosso arquivo index iremos criar uma nova sessão e chamar nossa função start() após a conexão ser feita com sucesso. Para que a gente possa observar qualquer evento disparado de mensagem no nosso whatsapp iremos chamar a função onAnyMessage do client para que ele observe todas as mensagens enviadas incluindo as nossas, e passaremos como parametro uma function como callback para que seja executada sempre que uma nova mensagem for enviada, validaremos então o conteúdo da mensagem, se o conteúdo for “hello” iremos enviar uma mensagem de volta “🤖 world 🌎”.
 
-(img1.png)
+https://github.com/alexvicentedasilva/whatsapp-bot/issues/1#issue-1610382927
+<div align="center">
+<img src="https://github.com/alexvicentedasilva/whatsapp-bot/issues/1#issue-1610382927.gif" width="700px" />
+</div>
 
